@@ -1,0 +1,24 @@
+{
+  "name": "exo walking dead",
+  "homepage": "https://github.com/florianmar/walkingdeadapp",
+  "authors": [
+    "florian marin <florian.marin74350@gmail.com>"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8",
+     "bootstrap": "^3.3.7",
+     "animate.css": "animate-css#^3.5.2",
+     "aos": "^2.1.1",
+     "material-design-icons": "^3.0.1"
+},
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
